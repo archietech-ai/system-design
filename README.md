@@ -13,6 +13,11 @@ Model: It should be a network that supports images. CNN based architectures like
 
 ![image](https://github.com/user-attachments/assets/c87c34ad-77f0-4a8f-bf37-e677357e0393)
 
+#### Simple Constrastive lost function
+
+![image](https://github.com/user-attachments/assets/d5f24f2e-cb86-49f5-8b03-85e45f877021)
+
+
 
 
 
