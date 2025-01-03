@@ -28,6 +28,8 @@ Model: It should be a network that supports images. CNN based architectures like
 
 <b>Exact NN </b> : Searching the entire embedding space and calculating the distance of query with other embeddings. The time complexy is high (N x D) where N is the number of comparisons to compare and D is dimention of each embedding.
 
+<b>Approximate NN </b>: Using an algorithm like LSH (locality sensitive hashing) to reduce the dimensions of points and group them in the buckets. This algorithm maps the points in close approximation to same bucket.
+
 
 
 
