@@ -19,6 +19,17 @@ Model: It should be a network that supports images. CNN based architectures like
 
 
 
+#### Simple System Design and Serving infrastructure 
+
+![image](https://github.com/user-attachments/assets/c4439a23-75c2-4510-871c-8dcdd89b7d1a)
+
+
+#### kNN decision points:
+
+<b>Exact NN </b> : Searching the entire embedding space and calculating the distance of query with other embeddings. The time complexy is high (N x D) where N is the number of comparisons to compare and D is dimention of each embedding.
+
+
+
 
 
 
